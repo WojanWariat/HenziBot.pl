@@ -1,0 +1,2 @@
+# HenziBot.pl
+bot iscord
